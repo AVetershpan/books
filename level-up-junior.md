@@ -9,7 +9,7 @@
 9. \[General\] Уметь видеть паттерн программирования
 10. \[Django\] написать приложение для работы с REST API и отложенным выполнением задач
 11. \[Git\] прочитать статью про gitflow, к примеру [http://nvie.com/posts/a-successful-git-branching-model/](http://nvie.com/posts/a-successful-git-branching-model/)
-12. \[Git\] уметь использовать git flow инструменты [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
+12. \[Git\] уметь использовать \[git flow инструменты\]\([https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)\)
 13. \[General\] Уметь разбираться в чужом коде
 14. \[General\] Знать что такой SaaS
 
